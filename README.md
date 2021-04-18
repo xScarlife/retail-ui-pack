@@ -5,3 +5,7 @@ If you don't know how to install addons manually, please watch my video where I 
 
 Installation:
 Open the .rar file and this will contain all the addons I use. You can simply drag and drop the folder over to your WoW Retail addons folder mostly located on your main C: drive like so, C:\World of Warcraft\_retail_\Interface\AddOns. 
+
+Extra: If you can't open .rar files, you can download WinRAR here: https://www.win-rar.com/download.html?&L=0
+
+Once you dragged and dropped the desired addon folders from the .rar file you can simply close all windows and launch your game. When on the character selection screen, please go to the lower left corner and select 'AddOns'. Make sure that all the addons you want to load in-game are checked or this can cause problems if you are missing one. 
