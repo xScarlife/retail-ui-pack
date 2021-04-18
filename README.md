@@ -15,3 +15,6 @@ Please note that you'll need to setup the addons how you like it. I cannot share
 ElvUI:
 The main interface is ElvUI but this is not included in the addon package. Why? Not everyone wants to install ElvUI as their interface so I let you decide what you want to install. If you do want to install my ElvUI interface however, you can watch my YouTube video how do to so by clicking the link here: https://youtu.be/NKeoyRn-Wrs.
 
+Thanks for reading, have fun!
+
+- xScarlife
