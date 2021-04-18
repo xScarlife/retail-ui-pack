@@ -9,3 +9,9 @@ Open the .rar file and this will contain all the addons I use. You can simply dr
 Extra: If you can't open .rar files, you can download WinRAR here: https://www.win-rar.com/download.html?&L=0
 
 Once you dragged and dropped the desired addon folders from the .rar file to your AddOns folder you can simply close all windows and launch your game. When on the character selection screen, please go to the lower left corner and select 'AddOns'. Make sure that all the addons you want to load in-game are checked or this can cause problems if you are missing one. 
+
+Please note that you'll need to setup the addons how you like it. I cannot share my settings but if you need help, don't hesitate to ask.
+
+ElvUI:
+The main interface is ElvUI but this is not included in the addon package. Why? Not everyone wants to install ElvUI as their interface so I let you decide what you want to install. If you do want to install my ElvUI interface however, you can watch my YouTube video how do to so by clicking the link here: https://youtu.be/NKeoyRn-Wrs.
+
