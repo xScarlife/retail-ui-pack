@@ -13,7 +13,7 @@ Once you dragged and dropped the desired addon folders from the .rar file to you
 Please note that you'll need to setup the addons how you like it. I cannot share my settings but if you need help, don't hesitate to ask.
 
 ElvUI:
-The main interface is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can watch my YouTube video how do to install my ElvUI interface by clicking the link here: https://youtu.be/NKeoyRn-Wrs.
+The main interface is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by clicking this link: https://wago.io/gzOvW_2a4.
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
 
