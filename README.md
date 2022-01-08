@@ -20,6 +20,7 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 1) TradeSkillMaster: https://www.tradeskillmaster.com/install
 2) Raider.IO: https://www.curseforge.com/wow/addons/raiderio
 3) Better Wardrobe: https://www.curseforge.com/wow/addons/better-wardrobe-and-transmog
+4) Weakauras: https://www.curseforge.com/wow/addons/weakauras-2
 
 Thanks for reading, have fun!
 
