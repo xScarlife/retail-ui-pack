@@ -34,6 +34,9 @@ This can be found on the Github page as a text file that you can copy over.
 You can disable this by going to your UnitFrames - Individual Units - Player - Debuffs.
 ![unknown](https://user-images.githubusercontent.com/24465574/180720268-b024b8e6-0355-478b-a43a-4aa8a900338d.png)
 
+###  My health numbers are overlapping on the player frame. How do I fix this?
+Go to the Unitframes -> Individual frames -> Player -> Custom Texts and remove the text format I wrote there.
+![elvui](https://user-images.githubusercontent.com/24465574/180720602-a640412d-306e-4327-8328-d30df55d3456.png)
 
 Thanks for reading, have fun!
 
