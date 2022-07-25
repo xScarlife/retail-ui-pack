@@ -25,6 +25,16 @@ Due to the upload size restrictions I left out some AddOns that took to much spa
 3) [Better Wardrobe](https://www.curseforge.com/wow/addons/better-wardrobe-and-transmog)
 4) [Weakauras](https://www.curseforge.com/wow/addons/weakauras-2)
 
+## Questions
+### Where can I find the Details Import string?
+This can be found on the Github page as a text file that you can copy over.
+![elvui_details](https://user-images.githubusercontent.com/24465574/180720120-77c6fff1-faed-47ab-8a9c-51302af5bbcc.png)
+
+### How do I disable the debuff icon?
+You can disable this by going to your UnitFrames - Individual Units - Player - Debuffs.
+![unknown](https://user-images.githubusercontent.com/24465574/180720268-b024b8e6-0355-478b-a43a-4aa8a900338d.png)
+
+
 Thanks for reading, have fun!
 
 - xScarlife
