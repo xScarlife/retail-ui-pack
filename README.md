@@ -1,4 +1,7 @@
 # Official xScarlife Gaming Retail UI package V1. 
+![ElvUI_Retail](https://user-images.githubusercontent.com/24465574/180719288-1719fec5-3a2d-419b-a8c1-e7a7a1ff7dc1.png)
+### You are not allowed to share or upload this ElvUI profile to other sources or claim it to be your own without the creator's permission.
+
 This package contains all the addons I use in-game. Please make sure you follow the steps below before you continue making any changes. If you have any problems during installation or you have additional questions, please do not hesitate to ask for help in the Discord server, me and my moderators are happy to help where we can.
 
 If you don't know how to install addons manually, please watch my video where I teach you how to do that by clicking this link: https://youtu.be/huUvI7O-6lE?t=83
