@@ -3,7 +3,7 @@ This package contains all the addons I use in-game. Please make sure you follow 
 
 If you don't know how to install addons manually, please watch my video where I teach you how to do that by clicking this link: https://youtu.be/huUvI7O-6lE?t=83
 
-Installation:
+## Installation
 Open the .rar file and this will contain all the addons I use. You can simply drag and drop the folder over to your WoW Retail addons folder mostly located on your main C: drive like so, C:\World of Warcraft\_retail_\Interface\AddOns. 
 
 Extra: If you can't open .rar files, you can download WinRAR here: https://www.win-rar.com/download.html?&L=0
@@ -12,7 +12,7 @@ Once you dragged and dropped the desired addon folders from the .rar file to you
 
 Please note that you'll need to setup the addons how you like it. I cannot share my settings but if you need help, don't hesitate to ask.
 
-ElvUI:
+## ElvUI
 The main interface is ElvUI but this is not included in the addon package. Why? ElvUI makes the file size of this addon pack to large in order for me to upload it. You can copy my ElvUI import string by clicking this link: https://wago.io/gzOvW_2a4.
 
 Due to the upload size restrictions I left out some AddOns that took to much space in the file itself. If you want you can download them manually from the links below.
